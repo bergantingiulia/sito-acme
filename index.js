@@ -1,33 +1,33 @@
 
-//pulsanti per la navigazione del sito
+//pulsanti per navigazione del sito
 
-funzione  OffertaSu ( )  {
-    finestra . scrollTo ( 0 ,  1820 ) ;
+function OffertaUp() {
+    window.scrollTo(0, 1820);
   }
 
-  funzione  DurataSu ( )  {
-    finestra . scorrere verso ( 0 ,  3300 ) ;
+  function DurataUp() {
+    window.scrollTo(0, 3300);
   }
 
-  funzione  Borse Su ( )  {
-    finestra . scorrere verso ( 0 ,  3800 ) ;
+  function BorseUp() {
+    window.scrollTo(0, 3800);
   }
 
   //bottoncino per andare su
 
-  funzione  scrollToTop ( )  {
-    finestra . scorrere verso ( 0 ,  0 ) ;
+  function scrollToTop() {
+    window.scrollTo(0, 0);
   }
 
-  //apparire
+  //pop up
 
-lascia che  popUp  =
-documento . getElementById ( "popup" ) ;
+let popUp =
+document.getElementById("popup");
 
-funzione  vaiSu ( )  {
-    popup . style  =  "fondo: -50px;" ;
+function goUp() {
+    popUp.style = "bottom: -50px;";
 }
 
-funzione  scompare ( )  {
-  popup . style  =  "visualizza: nessuno;" ;
+function disappear() {
+  popUp.style = "display: none;";
 }
