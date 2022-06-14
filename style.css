@@ -60,7 +60,7 @@ a.acmetop:hover {
 }
 
 .logoacme {
-    padding: 100px 100px;
+    padding: 100px 30px;
     text-align: center;
     color: white;
     height: 100px;
@@ -69,8 +69,8 @@ a.acmetop:hover {
 }
 
 #academy {
-    margin: 3px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+    font-family: Bebas Neue, Verdana, sans-serif;
 }
 
 .space {
