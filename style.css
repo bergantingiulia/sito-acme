@@ -220,11 +220,11 @@ div h2 {
 }
 
 #bgcolor1 {
-    background-color: hsl(0, 100%, 59%);
+    background-color: red;
 }
 
 #bgcolor2 {
-    background-color: hsl(219, 100%, 59%);
+    background-color: lightblue;
 }
 
 #bgcolor3 {
