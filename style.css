@@ -376,15 +376,3 @@ footer {
     z-index: 1;
 }
 
-#cookiebutton {
-    height: 50px;
-    width: 50px;
-    bottom: -120px;
-    padding: 5px;
-    color: orange;
-    display: block;
-    z-index: 1;
-    position: fixed;
-    text-align: center;
-
-}
