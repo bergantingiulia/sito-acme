@@ -282,8 +282,8 @@ ul {
 }
 
 .info {
-    background-color: rgb(88, 124, 118);
-    color: white;
+    background-color: lightblue ;
+    color: black;
     padding: 10px 20px;
     text-align: center;
 }
