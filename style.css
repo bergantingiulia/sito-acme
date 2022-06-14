@@ -60,11 +60,12 @@ a.acmetop:hover {
 }
 
 .logoacme {
+    margin: 50px auto 100px auto;
     padding: 100px 30px;
     text-align: center;
     color: white;
-    height: 70px;
-    width: 200px;
+    height: 100px;
+    width: 300px;
 
 }
 
