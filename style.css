@@ -377,16 +377,14 @@ footer {
 }
 
 #cookiebutton {
-    background-color: rgb(179, 247, 232);
-    color: rgb(0, 0, 0);
-    border: 2px solid rgb(64, 151, 147);
-    border-radius: 10px;
-    padding: 4px 20px;
-    margin: 5px;
-    display: none;
-    bottom: 5px;
-    left: 65px;
+    height: 200px;
+    width: 90px;
+    bottom: -120px;
+    padding: 5px;
+    color: orange;
+    display: block;
+    z-index: 1;
     position: fixed;
-    z-index: 2;
+    text-align: center;
 
 }
