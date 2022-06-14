@@ -232,15 +232,15 @@ div h2 {
 }
 
 .color1 {
-    color: hsl(0, 100%, 59%);
+    color: rgb(250, 106, 106));
 }
 
 .color2 {
-    color: hsl(219, 100%, 59%);
+    color: lightblue;
 }
 
 .color3 {
-    color: hsl(114, 42%, 39%);
+    color: orange;
 }
 
 .dipartimentoin {
