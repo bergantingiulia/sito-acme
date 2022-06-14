@@ -194,13 +194,13 @@ div h2 {
     margin: 0 auto;
     margin-top: 20px;
     height: 200px;
-    color: white;
+    color: black;
     text-align: center;
     padding-top: 100px;
     border-radius: 20px;
     font-weight: bold;
     font-family: 'Helvetica, sans-serif;
-    font-size: 14pt;
+    font-size: 22pt;
 }
 
 .dipartimentoout {
