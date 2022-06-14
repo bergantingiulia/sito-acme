@@ -10,7 +10,7 @@ body {
 
 .striscianera {
     background-color: rgba(0, 0, 0, 0.6);
-    border-bottom: 2px solid rgb(255, 255, 255);
+    border-bottom: 2px solid black;
     color: white;
     float: left;
     position: fixed;
