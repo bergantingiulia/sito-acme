@@ -322,7 +322,7 @@ ul {
 }
 
 #map {
-    outline: 8px solid rgb(88, 124, 118) !important;
+    outline: 8px solid lightblue !important;
     width: 100%;
     height: 400px;
 }
