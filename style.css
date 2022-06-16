@@ -325,7 +325,7 @@ ul {
 }
 
 .infotext {
-    vertical-align: super;
+    vertical-align: center;
      display: inline;
      font-family: Trebuchet MS, sans-serif;
    }
