@@ -29,10 +29,6 @@ body {
 
 }
 
-.bandiere:hover {
-    outline: 2px solid white;
-}
-
 
 .acmetop {
     color: white;
@@ -65,7 +61,6 @@ a.acmetop:hover {
     padding: 100px 50px;
     height: 270px;
     text-align: center;
-    color: white;
 
 }
 
@@ -85,7 +80,7 @@ a.acmetop:hover {
 
 .button {
     text-decoration: none;
-    color: black !important;
+    color: orange !important;
     background-color: white;
     border: 1px solid black;
     padding: 10px;
