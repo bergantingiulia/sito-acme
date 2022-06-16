@@ -90,7 +90,7 @@ a.acmetop:hover {
     border: 1px solid black;
     padding: 10px;
     border-radius: 5px;
-    font-family: Futura PT sans-serif;
+    font-family: Futura PT, sans-serif;
 
 }
 
@@ -157,6 +157,7 @@ a.acmetop:hover {
     padding: 20px;
     color: white;
     height: auto;
+    font-family: Futura PT, sans-serif;
 
 }
 
