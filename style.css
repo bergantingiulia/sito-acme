@@ -103,6 +103,7 @@ a.acmetop:hover {
 .openday {
     margin: 0 auto;
     border: 2px solid black;
+    border-radius: 10px;
     padding: 1px;
     max-width: 700px;
     color: black;
@@ -130,6 +131,7 @@ a.acmetop:hover {
 #offertaformativa {
     background-color: hsl(0, 0%, 6%);
     height: auto;
+    border-radius: 20px;
     color: white;
     text-align: center;
     padding: 20px 30px;
