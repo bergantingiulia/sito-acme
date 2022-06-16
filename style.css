@@ -145,20 +145,12 @@ a.acmetop:hover {
 
 
 
-.material-symbols-outlined1 {
+.material-symbols-outlined {
     font-size: 70px;
     color: rgb(250, 106, 106);
 }
 
-.material-symbols-outlined2 {
-    font-size: 70px;
-    color: lightblue;
-}
 
-.material-symbols-outlined3 {
-    font-size: 70px;
-    color: orange;
-}
 
 #welcome {
     background-color: hsl(0, 0%, 6%);
