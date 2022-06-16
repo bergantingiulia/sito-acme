@@ -162,10 +162,26 @@ a.acmetop:hover {
 
 }
 
-div h2 {
+div h2 offertaformativa {
     margin: 70px 0px 70px 0px;
     border-bottom: 5px solid rgb(250, 106, 106);
 }
+
+div h2 welcome {
+    margin: 70px 0px 70px 0px;
+    border-bottom: 5px solid white;
+}
+
+div h2 titoliedurata {
+    margin: 70px 0px 70px 0px;
+    border-bottom: 5px solid lightblue;
+}
+
+div h2 borsedistudio {
+    margin: 70px 0px 70px 0px;
+    border-bottom: 5px solid orange;
+}
+
 
 
 #youtubevideo {
