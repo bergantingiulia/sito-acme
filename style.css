@@ -179,6 +179,7 @@ div h2 {
     padding: 20px;
     color: white;
     height: auto;
+    font-family: Futura PT, sans-serif;
 }
 
 #immaginegrafica {
@@ -266,6 +267,7 @@ ul {
     padding: 30px;
     color: white;
     height: auto;
+    font-family: Futura PT, sans-serif;
 }
 
 #borse {
@@ -274,6 +276,7 @@ ul {
     padding: 30px;
     color: white;
     height: auto;
+    font-family: Futura PT, sans-serif;
 }
 
 .bitmargin {
@@ -285,6 +288,7 @@ ul {
     color: black;
     padding: 10px 20px;
     text-align: center;
+    font-family: Futura PT, sans-serif;
 }
 
 #infomargin {
@@ -313,6 +317,7 @@ ul {
 .infotext {
     vertical-align: super;
      display: inline;
+     font-family: Futura PT, sans-serif;
    }
 
 .social {
@@ -344,6 +349,7 @@ footer {
     text-align: center;
     margin: 0 auto;
     font-size: 12px;
+    font-family: Futura PT, sans-serif;
 }
 
 .top {
@@ -355,7 +361,7 @@ footer {
     width: 55px !important;
     border-radius: 90px;
     text-align: center !important;
-    font-family: Futura PT, Geneva, Verdana, sans-serif;
+    font-family: Futura PT, sans-serif;
     font-weight: bold;
     padding: 6px;
 }
