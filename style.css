@@ -223,16 +223,19 @@ div h2 {
 #bgcolor1 {
     background-color: rgb(250, 106, 106);
     font-family: Trebuchet MS, sans-serif;
+    border-radius: 10px;
 }
 
 #bgcolor2 {
     background-color: lightblue;
     font-family: Trebuchet MS, sans-serif;
+    border-radius: 10px;
 }
 
 #bgcolor3 {
     background-color: orange;
     font-family: Trebuchet MS, sans-serif;
+    border-radius: 10px;
 }
 
 .color1 {
@@ -256,6 +259,7 @@ div h2 {
     text-align: center;
     background-color: hsl(0, 0%, 10%);
     font-family: Trebuchet MS, sans-serif;
+    border-radius: 10px;
 
 }
 
