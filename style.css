@@ -332,8 +332,8 @@ ul {
 
 .social {
     width: 30px;
-    vertical-align: bottom;
-    margin: 0 10px;
+    vertical-align: center;
+    margin: 5px;
 }
 
 #map {
