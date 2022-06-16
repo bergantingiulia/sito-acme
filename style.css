@@ -228,22 +228,27 @@ div h2 {
 
 #bgcolor2 {
     background-color: lightblue;
+    font-family: Trebuchet MS, sans-serif;
 }
 
 #bgcolor3 {
     background-color: orange;
+    font-family: Trebuchet MS, sans-serif;
 }
 
 .color1 {
     color: rgb(250, 106, 106);
+    font-family: Trebuchet MS, sans-serif;
 }
 
 .color2 {
     color: lightblue;
+    font-family: Trebuchet MS, sans-serif;
 }
 
 .color3 {
     color: orange;
+    font-family: Trebuchet MS, sans-serif;
 }
 
 .dipartimentoin {
