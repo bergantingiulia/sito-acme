@@ -143,24 +143,6 @@ a.acmetop:hover {
     height: 100%;
 }
 
-.frame:frame1 {
-    background-color: hsl(0, 0%, 3%);
-    border-radius: 20px;
-    outline: 1px solid rgb(250, 106, 106);
-}
-
-.frame:frame2 {
-    background-color: hsl(0, 0%, 3%);
-    border-radius: 20px;
-    outline: 1px solid lightblue;
-}
-
-.frame:frame3 {
-    background-color: hsl(0, 0%, 3%);
-    border-radius: 20px;
-    outline: 1px solid orange;
-}
-
 
 
 .material-symbols-outlined {
