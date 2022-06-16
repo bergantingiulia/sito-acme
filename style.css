@@ -298,6 +298,7 @@ ul {
     color: black;
     padding: 10px 20px;
     text-align: center;
+    vertical-align:  center;
     font-family: Trebuchet MS, sans-serif;
 }
 
