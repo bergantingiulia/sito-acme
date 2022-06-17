@@ -78,22 +78,7 @@ a.acmetop:hover {
 
 }
 
-.button {
-    text-decoration: none;
-    color: orange !important;
-    background-color: white;
-    border: 1px solid black;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: Trebuchet MS, sans-serif;
 
-}
-
-.button:hover {
-    color: white !important;
-    background-color: rgb(250, 106, 106);
-    border: 1px solid white;
-}
 
 .openday {
     margin: 0 auto;
