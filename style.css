@@ -36,9 +36,7 @@ body {
 
 }
 
-a.acmetop:hover {
-    color: rgb(255, 85, 85);
-}
+
 
 @media screen and (max-width: 585px) {
 
