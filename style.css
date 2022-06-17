@@ -16,6 +16,7 @@ body {
     width: 100%;
     height: auto;
     color: lightblue;
+    font-family: Bebas Neue, sans-serif;
 }
 
 .bandiere {
@@ -28,19 +29,12 @@ body {
 
 }
 
-.logotop {
-    float: left;
-    width: 70px;
-    height: 40px;
-    margin-left: 10px;
-    margin-right: 20px;
 
-}
 
 .acmetop {
     color: lightblue;
     text-decoration: none;
-    font-family: Trebuchet MS, sans-serif;
+    font-family: Bebas Neue, sans-serif;
 
 }
 
