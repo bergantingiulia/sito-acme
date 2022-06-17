@@ -18,7 +18,7 @@ body {
     color: lightblue;
     font-family: Bebas Neue, sans-serif;
     font-size: 13.5pt;
-    vertical-align: center;
+    vertical-align: middle;
 }
 
 .bandiere {
@@ -28,7 +28,7 @@ body {
     margin-left: 10px;
     margin-right: 20px;
     border-radius: 3px;
-    vertical-align: center;
+    vertical-align: middle;
 
 }
 
