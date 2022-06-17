@@ -12,6 +12,7 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
     border-bottom: 2px solid black;
     float: left;
+    color: orange;
     padding: 1% 0% 0.5% 5%;
     width: 100%;
     height: auto;
@@ -29,7 +30,6 @@ body {
 
 
 .acmetop {
-    color: orange;
     text-decoration: none;
     font-family: Trebuchet MS, sans-serif;
 
