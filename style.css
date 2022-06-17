@@ -91,7 +91,7 @@ a.acmetop:hover {
 
 .button:hover {
     color: white !important;
-    background-color: rgba(0, 0, 0, 0.534);
+    background-color: rgb(250, 106, 106);
     border: 1px solid white;
 }
 
