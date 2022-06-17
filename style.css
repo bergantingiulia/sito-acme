@@ -15,7 +15,7 @@ body {
     padding: 1% 0% 0.5% 5%;
     width: 100%;
     height: auto;
-    color: rgb(250, 106, 106);
+    color: lightblue;
 }
 
 .bandiere {
@@ -30,7 +30,7 @@ body {
 
 
 .acmetop {
-    color: rgb(250, 106, 106);
+    color: lightblue;
     text-decoration: none;
     font-family: Trebuchet MS, sans-serif;
 
