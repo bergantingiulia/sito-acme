@@ -346,8 +346,8 @@ footer {
 }
 
 .top {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.541);
+    color: black;
+    background-color: rgb(250, 106, 106);
     position: fixed;
     bottom: 10px;
     right: 15px;
