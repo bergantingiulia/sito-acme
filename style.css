@@ -357,6 +357,7 @@ footer {
     font-family: Trebuchet MS, sans-serif;
     font-weight: bold;
     padding: 6px;
+    border: 2px solid black;
 }
 
 #popup {
