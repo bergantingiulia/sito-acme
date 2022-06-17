@@ -327,9 +327,7 @@ ul {
     height: 400px;
 }
 
-a:hover {
-    color: orange !important;
-}
+
 
 footer {
     background-color: hsl(0, 0%, 6%);
