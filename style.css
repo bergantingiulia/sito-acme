@@ -19,7 +19,7 @@ body {
 }
 
 .bandiere {
-    float: left;
+    float: right;
     width: 70px;
     height: 40px;
     margin-left: 10px;
