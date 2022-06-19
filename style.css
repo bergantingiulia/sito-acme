@@ -310,7 +310,7 @@ ul {
 }
 
 .infotext {
-    vertical-align: center;
+     vertical-align: center;
      display: inline;
      font-family: Trebuchet MS, sans-serif;
    }
@@ -322,6 +322,7 @@ ul {
 }
 
 #map {
+    outline: 8px solid orange !important;
     width: auto;
     height: 200px;
 }
