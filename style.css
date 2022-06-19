@@ -331,9 +331,8 @@ footer {
     background-color: hsl(0, 0%, 6%);
     color: white;
     width: 100%;
-    margin-top: -6px;
+    margin-top: 6px;
     font-family: Trebuchet MS, sans-serif;
-    padding: 1% 0% 0.5% 5%;
 
 }
 
