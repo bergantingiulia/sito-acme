@@ -183,6 +183,7 @@ div h2 {
     font-weight: bold;
     font-family: Trebuchet MS, sans-serif;
     font-size: 18pt;
+    vertical-align: middle;
 }
 
 .dipartimentoout {
