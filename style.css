@@ -325,6 +325,7 @@ ul {
     outline: 8px solid orange !important;
     width: 50%;
     height: 400px;
+    float: right;
 }
 
 
