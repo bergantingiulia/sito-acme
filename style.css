@@ -323,7 +323,7 @@ ul {
 
 #map {
     outline: 8px solid orange !important;
-    width: 50%;
+    width: auto;
     height: 200px;
 }
 
