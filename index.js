@@ -9,7 +9,7 @@ function OffertaUp() {
   }
 
   function BorseUp() {
-    window.scrollTo(0, 3800);
+    window.scrollTo(0, 4000);
   }
 
   //bottoncino per andare su
