@@ -1,11 +1,11 @@
 //pulsanti per navigazione del sito
 
 function OffertaUp() {
-    window.scrollTo(0, 1800);
+    window.scrollTo(0, 1780);
   }
 
   function DurataUp() {
-    window.scrollTo(0, 3300);
+    window.scrollTo(0, 3000);
   }
 
   function BorseUp() {
