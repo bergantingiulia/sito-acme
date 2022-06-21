@@ -1,7 +1,7 @@
 //pulsanti per navigazione del sito
 
 function OffertaUp() {
-    window.scrollTo(0, 1800);
+    window.scrollTo(0, 1900);
   }
 
   function DurataUp() {
