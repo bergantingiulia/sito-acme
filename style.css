@@ -143,21 +143,10 @@ body {
 
 
 
-div h2 offerta {
+div h2 {
     margin: 70px 0px 70px 0px;
     border-bottom: 2px solid rgb(250, 106, 106);
 }
-
-div h2 durata {
-    margin: 70px 0px 70px 0px;
-    border-bottom: 2px solid lightblue;
-}
-
-div h2 borse {
-    margin: 70px 0px 70px 0px;
-    border-bottom: 2px solid orange;
-}
-
 
 
 #youtubevideo {
