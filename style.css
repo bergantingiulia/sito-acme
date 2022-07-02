@@ -44,7 +44,7 @@ body {
 
 
 
-@media screen and (max-width: 585px) {
+@media screen and (max-width: 414px) {
 
     .bandiere {
         float: center;
@@ -145,8 +145,10 @@ body {
 
 div h2 {
     margin: 70px 0px 70px 0px;
-    border-bottom: 2px solid rgb(250, 106, 106);
+    border-bottom: 2px solid ;
 }
+
+ 
 
 
 #youtubevideo {
