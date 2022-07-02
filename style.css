@@ -143,9 +143,19 @@ body {
 
 
 
-div h2 {
+div h2 offerta {
     margin: 70px 0px 70px 0px;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid rgb(250, 106, 106);
+}
+
+div h2 durata {
+    margin: 70px 0px 70px 0px;
+    border-bottom: 2px solid lightblue;
+}
+
+div h2 borse {
+    margin: 70px 0px 70px 0px;
+    border-bottom: 2px solid orange;
 }
 
 
