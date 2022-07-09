@@ -44,20 +44,7 @@ body {
 
 
 
-@media screen and (max-width: 414px) {
 
-    .bandiere {
-        float: center;
-        width: 10%;
-        margin-bottom: 8px;
-        margin-right: 10px;
-    }
-
-    .Stricianera {
-        text-align: left;
-        padding-left: 0%;
-    }
-}
 
 .logoacme {
     max-width: fit-content;
