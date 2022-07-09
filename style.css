@@ -44,6 +44,14 @@ body {
 
 
 
+@media screen and (max-width: 600px) {
+  .striscianera {
+    font-size: 20px;
+  }
+}
+
+
+
 
 
 .logoacme {
