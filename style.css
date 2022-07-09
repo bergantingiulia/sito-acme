@@ -48,7 +48,8 @@ body {
 
     .bandiere {
         float: center;
-
+        margin-bottom: 8px;
+        margin-right: 10px;
     }
 
     .Stricianera {
