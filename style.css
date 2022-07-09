@@ -80,6 +80,13 @@ body {
     color: black;
 }
 
+@media screen and (max-width: 600px) {
+  .logoacme {
+      height: 150;
+  }
+}
+
+
 .space {
     height: 220px;
     max-width: fit-content;
