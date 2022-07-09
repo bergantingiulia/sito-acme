@@ -82,7 +82,7 @@ body {
 @media screen and (max-width: 600px) {
   .logoacme {
      width: 900px;
-     text-align: center;
+     float: center;
   }
 }
 
