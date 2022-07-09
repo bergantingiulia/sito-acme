@@ -48,6 +48,7 @@ body {
 
     .bandiere {
         float: center;
+        width: 20px;
         margin-bottom: 8px;
         margin-right: 10px;
     }
