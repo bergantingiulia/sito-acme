@@ -15,9 +15,6 @@ body {
     padding: 1% 0% 0.5% 5%;
     width: 100%;
     height: auto;
-    color: lightblue;
-    font-family: Trebuchet MS, sans-serif;
-    font-size: 13.5pt;
     vertical-align: middle;
 }
 
@@ -46,10 +43,8 @@ body {
 
 
 @media screen and (max-width: 600px) {
-  .striscianera {
-    width: 100%;
-    font-size: 15px;
-    padding: 1% 0% 0.5% 5%;
+  .acmetop {
+    font-size: 15px !important;
   }
     
   .bandiere {
