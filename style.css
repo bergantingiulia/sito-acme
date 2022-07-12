@@ -81,13 +81,6 @@ body {
     color: black;
 }
 
-@media screen and (max-width: 600px) {
-  .logoacme {
-     width: 500px;
-     float: center;
-  }
-}
-
 
 .space {
     height: 220px;
