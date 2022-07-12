@@ -47,6 +47,7 @@ body {
 
 @media screen and (max-width: 300px) {
   .striscianera {
+    width: 100%;
     font-size: 15px;
     padding: 1% 0% 0.5% 5%;
   }
