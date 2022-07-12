@@ -58,9 +58,21 @@ body {
       vertical-align: center;
       margin-right: 8px;
       margin-top: 1rem;
-      
-     
   }
+    
+  .imglogo {
+    width: 60% !important;
+  }
+    
+    
+  #academy {
+    font-size: 32px !important;
+  }
+    
+  .space {
+    height: 80px !important;
+  }
+    
 }
 
 
@@ -72,6 +84,11 @@ body {
     height: 270px;
     text-align: center;
 
+}
+
+.imglogo {
+    width: 35%;
+    
 }
 
 #academy {
