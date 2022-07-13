@@ -20,10 +20,10 @@ function OffertaUp() {
 
 //cookie
 function showCookie() {
-      let cookie = document.querySelector('#cookie');
+      let cookie = document.querySelector('#innercookie');
       cookie.style = "display:block;";
     }
 function hideCookie() {
-      let cookie = document.querySelector('#cookie');
+      let cookie = document.querySelector('#innercookie');
       cookie.style = "display:none;";
     }
