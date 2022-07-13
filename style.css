@@ -419,6 +419,7 @@ footer {
   font-size: 10px;
   background-color: orange;
   padding: 15px;
+  border: 2px solid black;
 }
 
 #perchiudere {
