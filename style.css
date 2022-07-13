@@ -411,7 +411,7 @@ footer {
     background-color: orange;
     position: fixed;
     bottom: 10px;
-    right: 15px;
+    left: 15px;
     width: 55px !important;
     border-radius: 90px;
     text-align: center !important;
