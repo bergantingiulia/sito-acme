@@ -111,6 +111,7 @@ body {
 
 .material-symbols-outlined {
     font-size: 70px !important;
+    cursor:pointer;
 }
 
 
