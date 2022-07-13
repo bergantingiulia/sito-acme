@@ -450,4 +450,14 @@ footer {
     width: 95% !important;
   }
     
+   body {
+    background-image: url('immagini/sfondo.webp');
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-size: cover;
+    background-position: center;  
+  }
+    
 }
