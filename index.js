@@ -1,7 +1,7 @@
 //pulsanti per navigazione del sito
 
 function OffertaUp() {
-    window.scrollTo(div class="dipartimentoout");
+    window.scrollTo(0, 1900);
   }
 
   function DurataUp() {
