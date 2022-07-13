@@ -418,8 +418,9 @@ footer {
   color: black;
   font-size: 10px;
   background-color: orange;
-  padding: 15px;
+  padding: 10px;
   border: 2px solid black;
+  border-radius: 10%;
 }
 
 #perchiudere {
@@ -443,7 +444,6 @@ footer {
   }
 
 #iconcookie{
-  font-size:60px !important;
   margin:auto;
   padding-top:3.7px;
  }
